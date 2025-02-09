@@ -1,0 +1,31 @@
+#header {
+                
+    background: linear-gradient(#007bff, white);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+#header .nav-link {
+    color: white !important;
+}
+
+#header .home {
+    width: 60% !important;
+}
+a{
+    text-decoration: none !important;
+}
+.profile-pic{
+    vertical-align: middle;
+     width: 30px;
+     height: 30px;
+    border-radius: 50%;
+ }
+
+ .card-img-top{
+    height: 300px !important;
+    
+ }
+ .text-sm{
+    font-size: 10px !important;
+ }
